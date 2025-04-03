@@ -1,13 +1,13 @@
 SQL de database ve bir adet excel dosyası oluşturup istenilenlere göre ayarlayıp kullanmaya başlayabilirsiniz.
 
                                         --- SQL ---
-Database name: KullaniciDB
+                                Database name: KullaniciDB
 
-Tables name:dbo.Kullaniciler
+                                Tables name:dbo.Kullaniciler
 
-Column Name1: KullaniciAdi
+                                Column Name1: KullaniciAdi
 
-Column Name2: Sifre
+                                Column Name2: Sifre
 
 
 
