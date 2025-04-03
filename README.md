@@ -17,5 +17,6 @@ Column Name2: Sifre
 
 
 Şeklinde ayarlayın.
+
 string connectionString = "Server=localhost;Database=KullaniciDB;User Id=sa;Password=password;";
 kısmında SQL bağlantınıza göre düzenleyin.
