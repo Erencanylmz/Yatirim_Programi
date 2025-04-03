@@ -1,6 +1,7 @@
 SQL de database ve bir adet excel dosyası oluşturup istenilenlere göre ayarlayıp kullanmaya başlayabilirsiniz.
 
                                         --- SQL ---
+
                                 Database name: KullaniciDB
 
                                 Tables name:dbo.Kullaniciler
@@ -9,9 +10,10 @@ SQL de database ve bir adet excel dosyası oluşturup istenilenlere göre ayarla
 
                                 Column Name2: Sifre
 
-
+------------------------------------------------------------------------------------------------------------------------
 
                                         --- excel ---
+
                                   A        B      C      D
                               1 ALIS_T   FIYAT   TUR   ADET
 
